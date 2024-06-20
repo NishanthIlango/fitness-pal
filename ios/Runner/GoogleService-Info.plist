@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCC9U8YkO5GnwVXw9Bon0M2r6Cr5iOpo1Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>183967406660</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fitnessApp</string>
+	<key>PROJECT_ID</key>
+	<string>fitnesspal-87234</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitnesspal-87234.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:183967406660:ios:92e028d8ee1a8ebee1ba11</string>
+</dict>
+</plist>

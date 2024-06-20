@@ -5,7 +5,6 @@ class UserModel {
   final String fullName;
   final String phone;
   final String email;
-  final String password;
   final String address;
   final String country;
   final String city;
@@ -15,7 +14,6 @@ class UserModel {
     required this.fullName,
     required this.phone,
     required this.email,
-    required this.password,
     required this.address,
     required this.country,
     required this.city,
@@ -28,7 +26,6 @@ class UserModel {
       'fullName': fullName,
       'phone': phone,
       'email': email,
-      'password': password,
       'address': address,
       'country': country,
       'city': city,
@@ -42,7 +39,6 @@ class UserModel {
       fullName: map['fullName'] ?? '',
       phone: map['phone'] ?? '',
       email: map['email'] ?? '',
-      password: map['password'] ?? '',
       address: map['address'] ?? '',
       country: map['country'] ?? '',
       city: map['city'] ?? '',
